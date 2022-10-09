@@ -5,3 +5,20 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.header{
+    padding-bottom: 175px;
+    /* height: 100vh; */
+    background-image: url("/image/banner.jpg");
+}
+.skill{
+    height: 100%;
+    background-color: #cccccc;
+}
+.skillImage .skillSize{
+    height: 100px;
+    width: 100px;
+}
+.skillImage{
+    margin:auto;
+    text-align: center;
+}
